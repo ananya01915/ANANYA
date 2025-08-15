@@ -32,7 +32,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🔥Bot Admin🔥─━━◉❖𝐀Y𝐔𝐒𝐇≛𝐊𝐈𝐍𝐆❖◉━━─💔🥀
 
-🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/profile.php?id=61571623693328💞🕊️
+🙈bot andmin owner facebook id link🙈➪https://www.facebook.com/profile.php?id=61571623693328 💞🕊️
 
 👋For Any Kind Of Help Contact On Instagram 👇👇 
 
