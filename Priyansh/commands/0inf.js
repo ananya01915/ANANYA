@@ -30,7 +30,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥─━━◉❖𝐀𝐓𝐔𝐒𝐇≛𝐊𝐈𝐍𝐆❖◉━━─💔🥀
+🔥Bot Admin🔥─━━◉❖𝐀Y𝐔𝐒𝐇≛𝐊𝐈𝐍𝐆❖◉━━─💔🥀
 
 🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/profile.php?id=61571623693328💞🕊️
 
