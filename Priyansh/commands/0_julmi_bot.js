@@ -26,9 +26,9 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   
    mess = "{name}"
   
-  if (event.body.indexOf("Julmi") == 0 || (event.body.indexOf("जुल्मी") == 0)) {
+  if (event.body.indexOf("𝐀𝐘𝐔𝐒𝐇") == 0 || (event.body.indexOf("𝐀𝐘𝐔𝐒𝐇") == 0)) {
     var msg = {
-      body: `🍁🌼🌹 ${name} 🌹🌼🍁\n\n 👉${rand} \n\n◦•●◉✿𝗝𝗨𝗟𝗠𝗜 𝗝𝗔𝗔𝗧✿◉●•◦`
+      body: `🍁🌼🌹 ${name} 🌹🌼🍁\n\n 👉${rand} \n\n◦•●◉✿𝐀𝐘𝐔𝐒𝐇 𝐑𝐀𝐉𝐏𝐔𝐓✿◉●•◦`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
